@@ -1,0 +1,13 @@
+.projectspage{
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+.projectImg img{
+    width: 800px;
+    height: 500px;
+}
+
+.projectTitle{
+    text-decoration: underline;
+}
